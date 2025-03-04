@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Bolognese",
+      "image": "spaghetti_bolognese.jpg",
+      "time": 40,
+      "description": "A classic Italian pasta dish with rich meat sauce.",
+      "vegan": false
+    },
+    {
+      "id": "2",
+      "title": "Veg Stir-Fry",
+      "image": "veg_stir_fry.jpg",
+      "time": 25,
+      "description": "A quick and healthy vegetable stir-fry with tofu.",
+      "vegan": true
+    },
+    {
+      "id": "3",
+      "title": "Chicken Curry",
+      "image": "chicken_curry.jpg",
+      "time": 50,
+      "description": "A flavorful and spicy chicken curry dish.",
+      "vegan": false
+    },
+    {
+      "id": "4",
+      "title": "Lentil Soup",
+      "image": "lentil_soup.jpg",
+      "time": 35,
+      "description": "A warm and comforting soup made with lentils and spices.",
+      "vegan": true
+    },
+    {
+      "id": "5",
+      "title": "Grilled Salmon",
+      "image": "grilled_salmon.jpg",
+      "time": 30,
+      "description": "A delicious grilled salmon fillet served with lemon butter.",
+      "vegan": false
+    },
+    {
+      "id": "6",
+      "title": "Avocado Toast",
+      "image": "avocado_toast.jpg",
+      "time": 10,
+      "description": "A healthy and simple avocado toast with cherry tomatoes.",
+      "vegan": true
+    },
+    {
+      "id": "7",
+      "title": "Beef Tacos",
+      "image": "beef_tacos.jpg",
+      "time": 25,
+      "description": "Tasty beef tacos with fresh vegetables and salsa.",
+      "vegan": false
+    },
+    {
+      "id": "8",
+      "title": "Mushroom Risotto",
+      "image": "mushroom_risotto.jpg",
+      "time": 45,
+      "description": "A creamy and flavorful mushroom risotto.",
+      "vegan": true
+    },
+    {
+      "id": "9",
+      "title": "Caprese Salad",
+      "image": "caprese_salad.jpg",
+      "time": 15,
+      "description": "A refreshing salad with tomatoes, mozzarella, and basil.",
+      "vegan": false
+    }
+  ]
+}
